@@ -127,7 +127,7 @@ https://github.com/labring/FastGPT/assets/15308462/7d3a38df-eb0e-4388-9250-2409b
 
 本仓库遵循 [FastGPT Open Source License](./LICENSE) 开源协议。
 
-1. 允许作为后台服务直接商用，但不允许直接使用 SaaS 服务商用。
+1. 允许作为后台服务直接商用，但不允许直接使用 SaaS 服务商用,ok。
 2. 需保留相关版权信息。
 3. 完整请查看 [FastGPT Open Source License](./LICENSE)
 4. 联系方式：yujinlong@sealos.io, [点击查看定价策略](https://doc.fastgpt.run/docs/commercial)
